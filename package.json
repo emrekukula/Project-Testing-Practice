@@ -1,0 +1,23 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrekukula/Project-Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrekukula/Project-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/emrekukula/Project-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
